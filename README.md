@@ -1,6 +1,6 @@
 # pygames
 
-Two small Python games. Personal practice projects.
+Two small Python games, and some of my first solo projects — built while I was learning Python and programming. I'm keeping them as a snapshot of where I started.
 
 ## Jumper (`pygame/`)
 A "no-internet"-style side-scroller: dodge obstacles, arrow keys to move, space to jump; it speeds up over time.
